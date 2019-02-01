@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest Tests snapshot matches 1`] = `
+<div
+  className="App"
+>
+  <p
+    className="value"
+  >
+    0
+  </p>
+  <button
+    id="offButton"
+    onClick={[Function]}
+  >
+    Off
+  </button>
+  <button
+    id="onButton"
+    onClick={[Function]}
+  >
+    On
+  </button>
+</div>
+`;
